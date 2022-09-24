@@ -1,1 +1,2 @@
 содержимое файла
+one line for file1
