@@ -1,2 +1,3 @@
 new line echo
 new stroka
+new line ahaha

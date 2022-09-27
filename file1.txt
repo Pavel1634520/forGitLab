@@ -1,2 +1,4 @@
 new line h
+content for file 1 
+new line 
 add one line
