@@ -1,2 +1,2 @@
-content for file two
-new line 
+new line echo
+new stroka
