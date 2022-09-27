@@ -1,2 +1,1 @@
-содержимое файла
-one line for file1
+content for file 1 

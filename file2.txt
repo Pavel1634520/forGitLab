@@ -1,2 +1,1 @@
-content for file2 
-one line for file2
+content for file two
